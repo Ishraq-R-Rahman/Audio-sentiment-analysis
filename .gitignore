@@ -1,0 +1,5 @@
+venv
+archive
+__pycache__
+temp.ipynb
+sample/
